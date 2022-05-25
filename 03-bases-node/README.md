@@ -10,3 +10,4 @@ Options:
   -h, --hasta    Número hasta el que llegara la tabla a multiplicar
                                                           [number] [default: 10]
 ```
+
