@@ -1,0 +1,37 @@
+[
+  {
+    "id": "d26bc429-0d9a-4151-b438-a7c45bb8388f",
+    "desc": "Eliminar",
+    "completada": null
+  },
+  {
+    "id": "d24a7655-1d8b-4bab-9ce9-18fdd10223fa",
+    "desc": "Borrar",
+    "completada": "12345678"
+  },
+  {
+    "id": "42fe057d-cba1-4055-8884-341604cb69e5",
+    "desc": "Cargar",
+    "completada": null
+  },
+  {
+    "id": "1bc7cd6f-0e29-4c05-8755-2055b4391fbb",
+    "desc": "Comprar",
+    "completada": null
+  },
+  {
+    "id": "e2625e54-ce41-4968-8c9b-ca43bfea8fc6",
+    "desc": "Salir",
+    "completada": null
+  },
+  {
+    "id": "421d69c2-7b69-4673-a0fe-426f359a9d27",
+    "desc": "Sacar",
+    "completada": null
+  },
+  {
+    "id": "5ebf5b85-76d7-4def-9628-73a8d18c9e34",
+    "desc": "Backup",
+    "completada": null
+  }
+]
